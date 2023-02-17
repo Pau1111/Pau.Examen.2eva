@@ -1,0 +1,64 @@
+h2.title{
+    background-color: lightpink;
+    color: rgb(13, 83, 163);
+    text-align: center;
+    t
+}
+
+nav{
+    text-align: center;
+    color: aqua;
+}
+
+img.img1{
+
+    height: 150px;
+    width: 250px;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+img.img2{
+
+    height: 150px;
+    width: 250px;
+    margin-left: 300px;
+    margin-top: 42px;
+}
+
+img.img3{
+
+    height: 150px;
+    width: 250px;
+    margin-left:  500px; 
+    margin-top: 5px;
+}
+
+p.inf{
+
+    text-align: center;
+    background-color: yellow;
+    border: 1px solid black;
+    color: blue;
+}
+
+h2.con{
+    color: blue ;
+    text-align: center;
+}
+body{
+    background-color: lightpink;
+}
+
+input.N{
+    color: blue;
+}
+span.color{
+    color: blue;
+    text-align: ;
+    
+}
+p.fondo{
+
+    background-color: blueviolet;
+}
